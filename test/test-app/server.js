@@ -1,4 +1,3 @@
-#test
 console.log("Server started");
 var Msg = '';
 var WebSocketServer = require('ws').Server
